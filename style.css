@@ -1,0 +1,13 @@
+.card{
+ border-bottom:  solid black 2px;
+ padding: 10px;
+ margin: 10px;
+}
+h1{
+    text-align: center  ;
+}
+body{
+    background-image: url("https://cdn.shopify.com/s/files/1/0299/8285/products/RMK12279M_720x_f0ecc934-3fc4-4c0a-98c0-a48cf04be29b.jpg?v=1644955102");
+   
+  background-size: 500px 500px;
+}
